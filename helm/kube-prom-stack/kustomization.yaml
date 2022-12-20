@@ -7,4 +7,3 @@ helmCharts:
   namespace: observabillity 
   releaseName: kube-prom-stack
   includeCRDs: true
-  skipHooks: true
