@@ -1,7 +1,7 @@
 {
   "appName": "kube-prom-stack",
   "userGivenName": "kube-prom-stack",
-  "destNamespace": "default",
+  "destNamespace": "observability",
   "destServer": "https://kubernetes.default.svc",
   "srcPath": "apps/kube-prom-stack/overlays/default",
   "srcRepoURL": "https://github.com/hiteshsp/observability.git",
